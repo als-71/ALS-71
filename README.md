@@ -2,5 +2,19 @@
 
 Here are some ideas to get you started:
 
-<img src="https://github-readme-stats.vercel.app/api?username=als-71&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://camo.githubusercontent.com/911f8c0a1112346f71aa1998d70a5e679f1ad1ff2917bc67e38b28a8a11c4da2/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626f746f6c6d6568656469266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b">
+ [![Profile views](https://gpvc.arturio.dev/abdullahalemon2)](https://github.com/als-71&color=c03546)
+-----
+![giphy](https://user-images.githubusercontent.com/77507222/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+-----
+
+-----
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=als-71&theme=highcontrast" />
+
+-----
+----
+<div align="center">  
+     <h2>🏆 Github Trophies 🏆</h2> <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=als-71&theme=dracula"/>   
+</div>
+
+-----
